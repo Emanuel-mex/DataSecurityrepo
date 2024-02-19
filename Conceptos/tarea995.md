@@ -46,16 +46,16 @@ Es la posibilidad de que ocurra un evento indeseable que ponga en peligro la con
 Son errores en la seguridad de un sistema que pueden ser explotados por atacantes con intenciones maliciosas. Estas vulnerabilidades pueden dar acceso no autorizado a cuentas, bases de datos o permitir ataques de ingeniería social y denegación de servicio.
 Ejemplos:
 
-*Desbordamiento de buffer.
-*Cross-Site scripting
-*Inyección SQL
-*Denegación de Servicio
+* Desbordamiento de buffer.
+* Cross-Site scripting
+* Inyección SQL
+* Denegación de Servicio
 
 ## Amenaza 
 Son ataques informáticos que buscan obtener información confidencial, bloquear el acceso a los sistemas, difundir información confidencial, bloquear acceso a los sistemas.
-*Phishing 
-*Ransomware
-*MAlware
-*Spam
+* Phishing 
+* Ransomware
+* MAlware
+* Spam
 
-![](/Conceptos/tipos_maleware)
+![Tipos Malware](/Conceptos/tipos_maleware.png)
