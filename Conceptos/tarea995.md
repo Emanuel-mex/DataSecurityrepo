@@ -21,14 +21,14 @@ Este triángulo indica que cuando la seguridad del sistema aumenta la funcionali
 Es un proceso de registro que requiere que el usuario se autentifique de otras formas aparte de la contraseña. Puede ser un código a su dispositivo móvil, a su correo electrónico o una llamada. Huella dactilar es otro ejemplo.La autenticación multifactor actúa como una capa adicional de seguridad para evitar que usuarios no autorizados accedan a dichas cuentas, incluso cuando se ha robado la contraseña
 Proceso Autenticación multifactor 
 
-*Registro
-	*Se registra el usuario y contraseña adicionalmente se vinculan los demás elementos que estarán asociados a la cuenta. (dirección de correo, número de celular).
+* Registro
+	* Se registra el usuario y contraseña adicionalmente se vinculan los demás elementos que estarán asociados a la cuenta. (dirección de correo, número de celular).
 
-*Autenticación 
-	*Se solicita el usuario y contraseña, y se solicita la autenticación multifactor. Se espera la respuesta del otro dispositivos.Si coincide se conecta con los demás elementos.
+* Autenticación 
+	* Se solicita el usuario y contraseña, y se solicita la autenticación multifactor. Se espera la respuesta del otro dispositivos.Si coincide se conecta con los demás elementos.
 
-*Reacción
-	*El usuario completa el proceso.
+* Reacción
+	* El usuario completa el proceso.
 
 ### Métodos de Autenticación 
 
