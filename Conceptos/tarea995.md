@@ -5,7 +5,7 @@
 Este es un concepto de ciberseguridad, es una guía para la seguridad de la información. Las siglas indican 
 Confidentiality,  Integrity and Availability. En español indican confidencialidad, integridad y disponibilidad de los datos. La confidencialidad indica que los datos no pueden ser accedidos por usuarios no autorizados, la integridad es que los datos son confiables, completos y no han sido modificados por usuarios no autorizados, por último la disponibilidad es que se pueda acceder cuando se requiere.
 
-![CIA triad](/cia_triangle.png)
+![CIA triad](/Conceptos/cia_triangle.png)
 
 ## Usability Triangle
 
@@ -15,7 +15,7 @@ Este triángulo indica que cuando la seguridad del sistema aumenta la funcionali
 * Usabilidad: qué tan fácil el sistema se puede usar por el usuario.
 * Seguridad: Las restricciones que se tienen para acceder a diferentes partes del sistema.
 
-![Usability Triangle](/triangle_usabilit.png)
+![Usability Triangle](/Conceptos/triangle_usabilit.png)
 
 ## Multi Factor Authentication
 Es un proceso de registro que requiere que el usuario se autentifique de otras formas aparte de la contraseña. Puede ser un código a su dispositivo móvil, a su correo electrónico o una llamada. Huella dactilar es otro ejemplo.La autenticación multifactor actúa como una capa adicional de seguridad para evitar que usuarios no autorizados accedan a dichas cuentas, incluso cuando se ha robado la contraseña
@@ -58,4 +58,4 @@ Son ataques informáticos que buscan obtener información confidencial, bloquear
 *MAlware
 *Spam
 
-![](/tipos_maleware)
+![](/Conceptos/tipos_maleware)
