@@ -58,4 +58,4 @@ Son ataques informáticos que buscan obtener información confidencial, bloquear
 * MAlware
 * Spam
 
-![Tipos Malware](/Conceptos/ttipos_malware.png)
+![Tipos Malware](/Conceptos/tipos_malware.png)
