@@ -26,7 +26,7 @@ Proceso Autenticación multifactor
 *Reacción
 	*El usuario completa el proceso.
 
-###Métodos de Autenticación 
+### Métodos de Autenticación 
 
 *Factor de Conocimiento*: Revelación de identidad que nadie conoce. Pregunta secreta, acceso pin. Solo es seguro mientras nadie más conozca esta información
 
